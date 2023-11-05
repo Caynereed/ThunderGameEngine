@@ -1,0 +1,3 @@
+[submodule "ThunderGameEngine\\vendor\\spdlog"]
+	path = ThunderGameEngine\\vendor\\spdlog
+	url = https://github.com/gabime/spdlog
