@@ -19,6 +19,9 @@
     <ClInclude Include="src\Thunder\Log.h">
       <Filter>Thunder</Filter>
     </ClInclude>
+    <ClInclude Include="src\Thunder\Events\Event.h" />
+    <ClInclude Include="src\Thunder\Events\EventManager.h" />
+    <ClInclude Include="src\Thunder\Events\EventListener.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Thunder\Application.cpp">

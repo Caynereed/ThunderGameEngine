@@ -146,10 +146,13 @@
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="src\Thunder\Events\Event.h" />
     <ClInclude Include="src\Thunder.h" />
     <ClInclude Include="src\Thunder\Application.h" />
     <ClInclude Include="src\Thunder\Core.h" />
     <ClInclude Include="src\Thunder\EntryPoint.h" />
+    <ClInclude Include="src\Thunder\Events\EventListener.h" />
+    <ClInclude Include="src\Thunder\Events\EventManager.h" />
     <ClInclude Include="src\Thunder\Log.h" />
   </ItemGroup>
   <ItemGroup>
